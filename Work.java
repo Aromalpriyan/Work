@@ -1,6 +1,3 @@
-# Work
-## Secret Language App
-```
 import java.util.Scanner;
 
 public class Work {
@@ -53,5 +50,3 @@ public class Work {
         }
     }
     }
-```
-[githublink]()
